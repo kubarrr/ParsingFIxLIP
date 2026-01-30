@@ -15,7 +15,9 @@ semantically coherent cross-modal explanations of BiomedCLIP on the radiology da
 
 # Results:
 <img width="1862" height="914" alt="image" src="https://github.com/user-attachments/assets/24e0884f-050f-45cb-bb55-1963ed4bf914" />
+<img width="1737" height="961" alt="image" src="https://github.com/user-attachments/assets/aae3111e-cc24-4a39-8f79-30ab7d229828" />
 <img width="1233" height="965" alt="image" src="https://github.com/user-attachments/assets/5bc0ec6e-f24b-4666-9a1c-ac1041b80cb4" />
+<img width="1502" height="845" alt="image" src="https://github.com/user-attachments/assets/875db1aa-032f-47f6-9724-2ab4112e9072" />
 <img width="1176" height="643" alt="image" src="https://github.com/user-attachments/assets/4adbfd1a-9a96-45fb-aafe-4a1f0eabc1b7" />
 
 
