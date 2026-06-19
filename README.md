@@ -2,7 +2,7 @@
 Project for Explainable AI course at University of Warsaw. Extending FIxLIP by grouping tokens semantically with Tree gram parsing. Evaluation new method on BiomedCLiP.
 
 ## Our work:
-### [Parsing FIxLIP Article](project_paper.pdf)
+### [Parsing FIxLIP Article](ICJAI_EXPLIMED_paper.pdf)
 
 # Abstract
 Vision-Language Models (VLMs) in the medical domain require explanations that align
